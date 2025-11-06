@@ -1,0 +1,10 @@
+# requirements.txt
+pandas
+numpy
+scikit-learn
+tensorflow
+statsmodels
+matplotlib
+seaborn
+joblib
+kaggle
