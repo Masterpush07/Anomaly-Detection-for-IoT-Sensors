@@ -27,7 +27,7 @@ your_project_folder/
 ├── models.py              # Defines our I-Forest and Autoencoder models
 ├── .gitignore             # Tells Git to ignore data and cache files
 ├── README.md              # This file
-├── report.md              # The 2–3 page summary report
+├── report.docx             # The page summary report
 ├── requirements.txt       # Python dependencies
 └── outputs/               # Auto-generated folder for all outputs
 ├── plots/             # Saved plots and visualizations
@@ -79,7 +79,7 @@ python main.py
 The pipeline performs the following steps with detailed console logs:
 
 1. Sets up logging at `outputs/pipeline.log`
-2. Checks and processes raw data into a clean time series (~984 rows)
+2. Checks and processes raw data into a clean time series
 3. Generates EDA plots (distributions, run-to-failure) → `outputs/plots/`
 4. Performs feature engineering (rolling stats, seasonal decomposition)
 5. Trains and evaluates:
@@ -151,8 +151,4 @@ is available in:
 ---
 
 > “Anomalies aren’t just outliers — they’re stories waiting to be understood.” 💡
-
-```
-
----
 
