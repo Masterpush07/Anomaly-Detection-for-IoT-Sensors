@@ -100,7 +100,7 @@ The pipeline performs the following steps with detailed console logs:
 | `data_loader.py`           | Handles dataset loading, unzipping, and preprocessing    |
 | `feature_engineering.py`   | Adds rolling statistics and decomposed features          |
 | `models.py`                | Defines the Isolation Forest and LSTM Autoencoder models |
-| `report.md` / `report.pdf` | 2–3 page final summary report with analysis              |
+| `report.docx`              | Final summary report with analysis                       |
 
 ---
 
