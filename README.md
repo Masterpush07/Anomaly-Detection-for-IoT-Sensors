@@ -19,7 +19,7 @@ The pipeline is fully modular and production-ready, making it easy to extend or 
 
 ```
 
-your_project_folder/
+Anomaly-Detection/
 ├── main.py                # The main script to run everything
 ├── config.py              # Configuration and parameters
 ├── data_loader.py         # Handles downloading, unzipping, and aggregation
