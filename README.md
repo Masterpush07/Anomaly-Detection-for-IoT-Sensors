@@ -1,7 +1,6 @@
 # 🛰️ Time Series Anomaly Detection for IoT Sensors
 
 This project is an **end-to-end solution** for detecting anomalies in IoT sensor data using **Machine Learning and Deep Learning** techniques.  
-It is developed as part of the **AI/ML Engineer (Fresher) Assignment**, demonstrating strong skills in data preprocessing, feature engineering, and anomaly detection modeling.
 
 ---
 
